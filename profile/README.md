@@ -2,7 +2,7 @@
 # Bienvenido a Nuestra Organización en GitHub
 
 Somos una organización destinada al desarrollo y la innovación de nuevas maneras de organización social. 
-Con la idea de poder construir comunidades, desarrollamos la posibilidad de 
+Con la idea de poder construir comunidades, vinculamos a las personas en cuestiones elementales para el desarrollo de un buen vivir.
 
 En este espacio, se encuentran alojados nuestros dos repositorios principales: `backend-services` y `frontend-vite`.
 
